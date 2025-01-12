@@ -1,4 +1,3 @@
-Here's a template for your GitHub repository's README file based on your project:
 
 ---
 
@@ -34,13 +33,10 @@ This project involves creating a **Power BI dashboard** to analyze and visualize
 |-- README.md  
 |-- AtliQ_Sales_Insights.pbix  
 |-- data_queries.sql  
-|-- screenshots/  
-    |-- dashboard_overview.png  
-    |-- sales_trends.png  
+|-- pdf/  
+    |-- dashboard_overview.pdf 
+    
 ```  
-
-## 🖼️ Dashboard Preview  
-![Dashboard Overview](screenshots/dashboard_overview.png)  
 
 ## 💡 Future Enhancements  
 - Include predictive analytics for sales forecasting.  
@@ -50,8 +46,7 @@ This project involves creating a **Power BI dashboard** to analyze and visualize
 ## 🤝 Contribution  
 Contributions are welcome! Feel free to fork the repository and submit pull requests.  
 
-## 📬 Contact  
-For any queries or suggestions, reach out to **[Your Name]** at **[your.email@example.com]**.  
+
 
 --- 
 
