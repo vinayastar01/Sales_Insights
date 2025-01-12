@@ -25,7 +25,7 @@ This project involves creating a **Power BI dashboard** to analyze and visualize
    ```bash  
    git clone https://github.com/username/repo-name.git  
    ```  
-2. Open the Power BI file (`AtliQ_Sales_Insights.pbix`) in **Power BI Desktop**.  
+2. Open the Power BI file (`[AtliQ_Sales_Insights.pbix`](https://app.powerbi.com/links/JBKqxmmutv?ctid=75c6a54f-cdc9-4ed2-941c-7096cf7dbda0&pbi_source=linkShare)) in **Power BI Desktop**.  
 3. Use the SQL scripts provided (`data_queries.sql`) to replicate the data extraction process.  
 
 ## 📂 Repository Structure  
@@ -50,4 +50,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 --- 
 
-Replace placeholders (e.g., `username`, `repo-name`, and contact details) with actual values before adding it to your repository.
